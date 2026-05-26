@@ -10,7 +10,7 @@
 ## 2. Folder Convention
 The repository follows a strict directory structure to reduce ambiguity during peer review. All materials are organized into sequential folders:
 * `lecture-01` : Setup, notes, and introductory Python scripts.
-* `lecture-02` :
+* `lecture-02` : 
 * `lecture-03` :
 * `lecture-04` :
 * `lecture-05` :
@@ -18,9 +18,10 @@ The repository follows a strict directory structure to reduce ambiguity during p
 * `lecture-07` :
 
 ## 3. List of Lecture 2 Deliverables
-*(This section will be populated during Lecture 2)*
-* [ ] Deliverable A
-* [ ] Deliverable B
+* commit-messages.md
+* copilot-status.md
+* fact-assumption.md
+* one pull request
 
 ## 4. How to Inspect Pull Requests and Peer Review
 To evaluate the work and the peer review process:
@@ -29,7 +30,7 @@ To evaluate the work and the peer review process:
 3. Check the **Files changed** tab to inspect the code differences.
 4. Read the **Conversation** tab to view the peer review comments and feedback.
 
-## 5. Privacy Rule ⚠️
+## 5. Privacy Rule
 In compliance with the course's strict privacy policies, this repository enforces the following rules:
 * **No tokens or passwords:** Never commit API keys, passwords, or authentication tokens.
 * **No private data:** No personal, confidential, or sensitive company datasets will be uploaded.
