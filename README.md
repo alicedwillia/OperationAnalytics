@@ -9,13 +9,7 @@
 
 ## 2. Folder Convention
 The repository follows a strict directory structure to reduce ambiguity during peer review. All materials are organized into sequential folders:
-* `lecture-01` : Setup, notes, and introductory Python scripts.
-* `lecture-02` : 
-* `lecture-03` :
-* `lecture-04` :
-* `lecture-05` :
-* `lecture-06` :
-* `lecture-07` :
+* `lecture-01`, `lecture-02`, `lecture-03`, `lecture-04`, `lecture-05`, `lecture-06`, `lecture-07`
 
 ## 3. List of Lecture 2 Deliverables
 * commit-messages.md
