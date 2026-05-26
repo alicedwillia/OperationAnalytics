@@ -1,13 +1,11 @@
 # BBS-OperationAnalytics
-## Crazy For Analysis - Brian O'Sullivan, Francesco Gambera, Alice Williams, Sergio Zuccarello
-# Operation Analytics (2025-2026)
 
 ## 1. Course and Group Identifier
 * **Course:** Operation Analytics
 * **Institution:** Bologna Business School
 * **Professor:** Giancarlo Succi
-* **Group / Student:** [Inserisci il nome del tuo gruppo o il tuo nome]
-* **Repository Status:** Private 
+* **Group / Student:** Crazy For Analysis - Brian O'Sullivan, Francesco Gambera, Alice Williams, Sergio Zuccarello
+* **Repository Status:** Public
 
 ## 2. Folder Convention
 The repository follows a strict directory structure to reduce ambiguity during peer review. All materials are organized into sequential folders:
