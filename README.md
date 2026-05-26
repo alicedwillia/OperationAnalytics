@@ -12,10 +12,11 @@ The repository follows a strict directory structure to reduce ambiguity during p
 * `lecture-01`, `lecture-02`, `lecture-03`, `lecture-04`, `lecture-05`, `lecture-06`, `lecture-07`
 
 ## 3. List of Lecture 2 Deliverables
-* commit-messages.md
-* copilot-status.md
-* fact-assumption.md
-* one pull request
+Understanding how to operate simultaneously on github.
+- **commit-messages.md** - Commit message guidelines and best practices
+- **copilot-status.md** - Copilot integration and status documentation
+- **fact-assumption.md** - Documentation of facts and assumptions
+- **Pull Request** - One pull request demonstrating collaborative workflow
 
 ## 4. How to Inspect Pull Requests and Peer Review
 To evaluate the work and the peer review process:
