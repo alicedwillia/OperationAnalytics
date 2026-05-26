@@ -4,18 +4,12 @@
 * **Course:** Operation Analytics
 * **Institution:** Bologna Business School
 * **Professor:** Giancarlo Succi
-* **Group / Students:** Crazy For Analysis - Brian O'Sullivan, Francesco Gambera, Alice Williams, Sergio Zuccarello
+* **Group / Students:** Crazy For Analysis / Brian O'Sullivan, Francesco Gambera, Alice Williams, Sergio Zuccarello
 * **Repository Status:** Public
 
 ## 2. Folder Convention
 The repository follows a strict directory structure to reduce ambiguity during peer review. All materials are organized into sequential folders:
-* `lecture-01/` : Setup, notes, and introductory Python scripts.
-* `lecture-02/` : [To be updated]
-* `lecture-03/` : [To be updated]
-* `lecture-04/` : [To be updated]
-* `lecture-05/` : [To be updated]
-* `lecture-06/` : [To be updated]
-* `lecture-07/` : [To be updated]
+* `lecture-01-lecture-07/` : Setup, notes, and introductory Python scripts.
 
 ## 3. List of Lecture 2 Deliverables
 *(This section will be populated during Lecture 2)*
