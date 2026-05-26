@@ -4,7 +4,7 @@
 * **Course:** Operation Analytics
 * **Institution:** Bologna Business School
 * **Professor:** Giancarlo Succi
-* **Group / Student:** Crazy For Analysis - Brian O'Sullivan, Francesco Gambera, Alice Williams, Sergio Zuccarello
+* **Group / Students:** Crazy For Analysis - Brian O'Sullivan, Francesco Gambera, Alice Williams, Sergio Zuccarello
 * **Repository Status:** Public
 
 ## 2. Folder Convention
